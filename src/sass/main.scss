@@ -1,0 +1,13 @@
+@import './utils/normalize';
+@import './utils/var';
+@import './base/base';
+
+@import './layout/header';
+@import './layout/my-library-header.scss';
+@import './layout/modal-header';
+
+@import './layout/films-gallery';
+@import './layout/footer';
+
+@import './layout/modal-backdrop';
+@import './layout/modal';
